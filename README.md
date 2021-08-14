@@ -1,6 +1,8 @@
 [![Header](https://raw.githubusercontent.com/jonahbedouch/jonahbedouch/main/images/github%20banner.png "Header")](https://bedouch.net)
 
-[![Facebook](https://raw.githubusercontent.com/jonahbedouch/jonahbedouch/main/images/facebook.png "Facebook")](https://facebook.com/Jonahahahahah)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Instagram](https://raw.githubusercontent.com/jonahbedouch/jonahbedouch/main/images/instagram.png "Instagram")](https://instagram.com/Jonahahahahah)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://raw.githubusercontent.com/jonahbedouch/jonahbedouch/main/images/linkedin.png "LinkedIn")](https://www.linkedin.com/in/jonahbedouch/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Twitter](https://raw.githubusercontent.com/jonahbedouch/jonahbedouch/main/images/twitter.png "Twitter")](https://twitter.com/Jonahahahahah)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p style="text-align: center;">
+    <a href="https://facebook.com/Jonahahahahah"><img src="https://raw.githubusercontent.com/jonahbedouch/jonahbedouch/main/images/facebook.png" alt="Facebook"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://instagram.com/Jonahahahahah"><img src="https://raw.githubusercontent.com/jonahbedouch/jonahbedouch/main/images/instagram.png" alt="Instagram"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/jonahbedouch"><img src="https://raw.githubusercontent.com/jonahbedouch/jonahbedouch/main/images/linkedin.png" alt="LinkedIn"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/Jonahahahahah"><img src="https://raw.githubusercontent.com/jonahbedouch/jonahbedouch/main/images/twitter.png" alt="Twitter"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
